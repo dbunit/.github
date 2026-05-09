@@ -1,0 +1,7 @@
+= The dbUnit Organization
+
+Welcome to the dbUnit organization at GitHub.
+
+== Documentation
+dbUnit:: https://dbunit.github.io/dbunit-extension
+dbunit-maven-plugin:: https://dbunit.github.io/dbunit-maven-plugin
