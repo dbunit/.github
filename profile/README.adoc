@@ -1,6 +1,8 @@
 = The dbUnit Organization
 
-Welcome to the dbUnit organization at GitHub.
+Welcome to the dbUnit organization, containing information on the library and corresponding Maven plugin.
+
+View their documentation and repositories below.
 
 == Documentation
 dbUnit:: https://dbunit.github.io/dbunit-extension
