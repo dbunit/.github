@@ -1,7 +1,13 @@
 Welcome to the dbUnit organization, containing information on the library and corresponding Maven plugin.
 
-View their documentation and repositories below.
+== dbUnit
+* Source Code: https://github.com/dbunit/dbunit-extension
+* Documentation: https://dbunit.github.io/dbunit-extension
+* Build Status: image:https://github.com/dbunit/dbunit-extension/actions/workflows/build-any-branch-with-all-dbs.yml/badge.svg[]
+* Reproducible Status: image:https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jvm-repo-rebuild/reproducible-central/master/content/org/dbunit/badge.json[]
 
-== Documentation
-dbUnit:: https://dbunit.github.io/dbunit-extension
-dbunit-maven-plugin:: https://dbunit.github.io/dbunit-maven-plugin
+== dbunit-maven-plugin
+* Source Code: https://github.com/dbunit/dbunit-maven-plugin
+* Documentation: https://dbunit.github.io/dbunit-maven-plugin
+* Build Status: image:https://github.com/dbunit/dbunit-maven-plugin/actions/workflows/build-any-branch.yml/badge.svg[]
+* Reproducible Status: (WIP)
