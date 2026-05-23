@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>org.dbunit</groupId>
+  <artifactId>dbunit-github</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+
+  <name>dbUnit GitHub Organization Profile</name>
+  <url>https://github.com/dbunit</url>
+  <inceptionYear>2002</inceptionYear>
+  <description>GitHub central hub repo and dbUnit landing page.</description>
+
+  <licenses>
+    <license>
+      <name>GNU Lesser General Public License, Version 2.1</name>
+      <url>http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+
+  <scm>
+    <connection>scm:git:https://github.com/dbunit/.github.git</connection>
+    <developerConnection>scm:git:https://github.com/dbunit/.github.git</developerConnection>
+    <url>https://github.com/dbunit/.github</url>
+    <tag>HEAD</tag>
+  </scm>
+  <issueManagement>
+    <system>github</system>
+    <url>https://github.com/dbunit/.github/issues</url>
+  </issueManagement>
+  <ciManagement>
+    <system>github</system>
+    <url>https://github.com/dbunit/.github/actions</url>
+  </ciManagement>
+
+  <developers>
+    <developer>
+      <name>Jeff Jensen</name>
+      <id>jeffjensen</id>
+      <email>jjensen@apache.org</email>
+      <roles>
+        <role>Admin</role>
+      </roles>
+      <timezone>-6</timezone>
+    </developer>
+  </developers>
+</project>
