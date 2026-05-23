@@ -1,0 +1,4 @@
+[bugtraq "GitHub Issues"]
+	url = https://github.com/dbunit/.github/issues/%BUGID%
+	loglinkregex = Refs: \\d+
+	logregex = \\d+
