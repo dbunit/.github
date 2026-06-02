@@ -3,11 +3,11 @@ Welcome to the dbUnit organization, containing information on the library and co
 == dbUnit
 * Source Code: https://github.com/dbunit/dbunit-extension
 * Documentation: https://dbunit.github.io/dbunit-extension
-* Build Status: image:https://github.com/dbunit/dbunit-extension/actions/workflows/build-any-branch-with-all-dbs.yml/badge.svg[]
+* Build Status: image:https://github.com/dbunit/dbunit-extension/actions/workflows/build-any-branch-with-all-dbs.yml/badge.svg?branch=main[]
 * Reproducible Status: image:https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jvm-repo-rebuild/reproducible-central/master/content/org/dbunit/badge.json[]
 
 == dbunit-maven-plugin
 * Source Code: https://github.com/dbunit/dbunit-maven-plugin
 * Documentation: https://dbunit.github.io/dbunit-maven-plugin
-* Build Status: image:https://github.com/dbunit/dbunit-maven-plugin/actions/workflows/build-any-branch.yml/badge.svg[]
+* Build Status: image:https://github.com/dbunit/dbunit-maven-plugin/actions/workflows/build-any-branch.yml/badge.svg?branch=main[]
 * Reproducible Status: image:https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jvm-repo-rebuild/reproducible-central/master/content/org/dbunit/dbunit-maven-plugin/badge.json[]
