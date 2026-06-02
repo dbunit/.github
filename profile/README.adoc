@@ -1,4 +1,4 @@
-Welcome to the dbUnit organization, containing information on the library and corresponding Maven plugin.
+Welcome to the dbUnit organization - the library and its Maven plugin.
 
 == dbUnit
 * Source Code: https://github.com/dbunit/dbunit-extension
