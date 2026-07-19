@@ -1,5 +1,7 @@
 Welcome to the dbUnit organization - the library and its Maven plugin.
 
+Docs: https://dbunit.github.io
+
 == dbUnit
 [frame=none, grid=none]
 |===
